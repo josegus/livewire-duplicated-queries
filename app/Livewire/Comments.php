@@ -13,7 +13,7 @@ class Comments extends Component
 
     public function mount(): void
     {
-        sleep(5);
+        //sleep(5);
     }
 
     public function placeholder()
